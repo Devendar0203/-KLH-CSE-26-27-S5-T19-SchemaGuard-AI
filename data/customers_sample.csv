@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,signup_date,account_balance
+CUST-1001,Alice,Smith,alice.smith@example.com,2026-01-15,1250.50
+CUST-1002,Bob,Jones,bob.jones@example.com,2026-01-16,850.00
+CUST-1003,Charlie,Brown,charlie.b@example.com,2026-01-17,3100.75
+CUST-1004,Diana,Prince,diana@example.com,2026-01-18,450.25
+CUST-1005,Evan,Wright,evan.w@example.com,2026-01-19,920.10

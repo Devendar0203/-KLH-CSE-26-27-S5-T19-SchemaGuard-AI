@@ -1,0 +1,18 @@
+[
+  {
+    "customer_id": "CUST-2001",
+    "first_name": "Fiona",
+    "last_name": "Gallagher",
+    "email": "fiona.g@example.com",
+    "signup_date": "2026-02-01",
+    "account_balance": 1890.00
+  },
+  {
+    "customer_id": "CUST-2002",
+    "first_name": "George",
+    "last_name": "Clark",
+    "email": "george.c@example.com",
+    "signup_date": "2026-02-02",
+    "account_balance": 540.50
+  }
+]
